@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Wallet address updated
 # Update package list and install necessary packages
 
 sudo apt update
