@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Wallet address updated
 # Update package list and install necessary packages
 apt update
 apt -y install ocl-icd-opencl-dev
